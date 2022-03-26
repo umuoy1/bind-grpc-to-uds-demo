@@ -1,0 +1,16 @@
+{
+  "name": "rpc-ipc-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "./node_modules/nodemon/bin/nodemon.js main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.5.10",
+    "nodemon": "^2.0.15",
+    "shortid": "^2.2.16"
+  }
+}
